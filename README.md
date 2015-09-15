@@ -3,7 +3,7 @@
 ## How to sign the CLA?
 
 * Clone this repository.
-* Make a copy of `agreement_template.md` under the `agreements/` folder.
+* Make a copy of `agreement_template.md` under the `agreements/` folder with your name. Eg. 'agreements/john_doe.md`
 * Fill your details at the end and commit the file.
 * Send a pull-request to this repository.
 
